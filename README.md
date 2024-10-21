@@ -9,6 +9,9 @@ Implemented Projects
 2. Gaussian Process Implementation
 
     - **Description**: Demonstrates Gaussian process (GP) regression for predicting values with associated uncertainties.
+    - _To-Do_
+        - [ ] Comparison with existing implementation with SciPy GP implementation
+        - [ ] Hyperparameter tuning using MLA / MAP / Fully Bayesian.
 
 ## To-Do: Potential Future Projects
    - [ ] Kalman Filter: Implement a Kalman filter for linear state estimation and compare its performance with Bayesian tracking.
