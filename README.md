@@ -21,3 +21,4 @@ Implemented Projects
    - [ ] Time Series Analysis: Apply Gaussian processes or ARIMA models to a real-world time series dataset.
    - [ ] Dimensionality Reduction: Explore PCA, t-SNE, and UMAP for visualizing high-dimensional data.
    - [ ] Kalman Filter for 3D Pose Estimation: Using Handy IMU to estimate its 3d pose
+   - [ ] Bayesian Optimization Algorithms
