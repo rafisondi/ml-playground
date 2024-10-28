@@ -10,8 +10,8 @@ Implemented Projects
 
     - **Description**: Demonstrates Gaussian process (GP) regression for predicting values with associated uncertainties.
     - _To-Do_
-        - [ ] Comparison with existing implementation with SciPy GP implementation
-        - [ ] Hyperparameter tuning using MLA / MAP / Fully Bayesian.
+        - [x] Comparison with existing implementation with SciPy GP implementation
+        - [x] Hyperparameter tuning using MLE / ~~MAP~~. Very basic optimization approach used by maximizing Maximum Likelihood.
 
 ## To-Do: Potential Future Projects
    - [ ] Kalman Filter: Implement a Kalman filter for linear state estimation and compare its performance with Bayesian tracking.
